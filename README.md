@@ -1,1 +1,1 @@
-# Car Price Pridiction(Linear Regression)
+# Car Price Prediction using Machine Learning
